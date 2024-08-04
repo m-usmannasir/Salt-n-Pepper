@@ -1,0 +1,43 @@
+.set-first-book{
+    border: 1px solid rgb(163, 163, 163);
+    padding: 20px 60px;
+}
+
+.set-second-book{
+    border: 1px solid rgb(163, 163, 163);
+    padding: 20px 60px;
+}
+
+.p-t-30px{
+    padding-top: 80px;
+}
+.f-size{
+    font-size: 3rem;
+}
+.f-small{
+    font-size: 1.5rem;
+}
+
+.p-b-30{
+    padding-bottom: 30px;
+}
+
+.p-t-10px{
+    padding-top: 10px;
+}
+
+.p-t-50px{
+    padding-top: 50px;
+}
+.bg-gray{
+    color: rgb(148, 148, 148);
+}
+
+.p-t-30px{
+    padding-top: 30px;
+}
+
+
+.p-b-50{
+    padding-bottom: 50px;
+}

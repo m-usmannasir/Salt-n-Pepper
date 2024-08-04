@@ -1,0 +1,133 @@
+@font-face {
+    font-family: Futurak;
+    src: url(../Fonts/Futurak\ Style.ultra.ttf);
+}
+
+/* <!-- navebar started --> */
+
+.logo-size{
+    width: 165px;
+}
+
+.nav-items{
+    font-size: 1.6rem;
+}
+
+.text-none{
+    text-decoration: none;
+    color: var(--white);
+}
+
+.navebar{
+    padding: 15px;
+}
+
+.franchise-btn{
+    background-color: transparent;
+    border: 1px solid var(--white);
+    padding: 13px 18px;
+    border-radius: 25px;
+}
+
+.Order-btn{
+    background-color: var(--red);
+    border: none;
+    padding: 18px 22px;
+    border-radius: 25px;
+}
+
+.arrow{
+    background-color: var(--white);
+    color: var(--red);
+    border-radius: 30px;
+    padding: 5px 8px;
+} 
+
+/* <!-- navebar ended --> */
+
+/* footer started */
+
+.padding-bottom{
+    padding-bottom: 100px;
+}
+
+.padding-top{
+    padding-top: 80px;
+}
+.color-grey{
+    color: rgb(156, 156, 156);
+    width: 350px;
+    height: 260px;
+}
+
+h5{
+    color: var(--white);
+    padding-bottom: 20px;
+    padding-top: 80px;
+    font-size: 2.5rem;
+}
+
+.m-l{
+    margin-left: 90px;
+}
+
+.m-left{
+    margin-left: 3px;
+}
+
+.color-white{
+    color: var(--white);
+}
+
+.color-grey{
+    color: rgb(163, 163, 163);
+}
+
+.f-small-size{
+    font-family: 1.5rem;
+}
+
+.f-medium{
+    font-size: 2rem;
+}
+
+
+.Facebook-btn{
+    background-color: var(--red);
+    color: var(--white);
+    font-size: 1.8rem;
+    border: none;
+    padding: 13px 18px;
+    border-radius: 50px;
+    margin: 4px;
+}
+
+.Instagram-btn{
+    background-color: var(--red);
+    color: var(--white);
+    font-size: 1.8rem;
+    border: none;
+    padding: 12px 16px;
+    border-radius: 50px;
+    margin: 4px;
+}
+
+.Twitter-btn{
+    background-color: var(--red);
+    color: var(--white);
+    font-size: 1.8rem;
+    border: none;
+    padding: 12px 16px;
+    border-radius: 50px;
+    margin: 4px;
+}
+
+.App-Store-btn{
+    padding-top: 25px;
+}
+
+.Play-Store-btn{
+    padding-top: 0px;
+}
+
+/* footer ended */

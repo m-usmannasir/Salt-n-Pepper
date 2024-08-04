@@ -1,0 +1,105 @@
+
+#back-image{
+    background-image: url(../Assets/background.jpg);
+    height: 700px;
+    width: 100%;
+    color: var(--white);
+}
+
+.font-s-w{
+    font-size: 8opx;
+    font-weight: 100;
+}
+
+.f-large{
+    font-size: 12rem;
+}
+.f-normal{
+    font-size: 5rem;
+}
+.f-small{
+    font-size: 2.5rem;
+}
+.f-very-small{
+    font-size: 1.5rem;
+}
+
+.padding-right{
+    padding-right: 40px;
+}
+.p-t-30{
+    padding-top: 30px;
+}
+.p-b-30{
+    padding-bottom: 30px;
+}
+.p-b-15{
+    padding-bottom: 15px;
+}
+
+.p-t-10{
+    padding-top: 10px;
+}
+.p-t-20{
+    padding-top: 20px;
+}
+
+.p-t-50{
+    padding-top: 50px;
+}
+.bg-gray{
+    color: rgb(148, 148, 148);
+}
+
+.p-t-30{
+    padding-top: 30px;
+}
+
+.p-b-50{
+    padding-bottom: 50px;
+}
+.p-b-100{
+    padding-bottom: 100px;
+}
+
+.padding-10{
+    padding: 10px;
+}
+
+.m-left-70{
+    margin-left: 70px;
+}
+.m-left-150{
+    margin-left: 350px;
+}
+
+.star{
+    border: 1px solid var(--white);
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.border-right{
+    border-right: 1px dotted var(--white);
+    margin-right: 50%;
+}
+
+.div-border-right{
+    border-right: 1px dotted var(--white);
+    padding-right: 75px;
+}
+
+.padding-l{
+    padding: 15px 300px 15px 8px;
+}
+.big-btn{
+    padding: 0px 300px 80px 8px;
+}
+
+.P-heading{
+    align-items: center;
+}
+.border-right-m{
+    border-right: 1px dotted var(--white);
+    padding-right: 60px;
+}
